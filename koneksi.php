@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "NAMA_DATABASE";
+$database = "db_simpi_tangkap";
 
 $conn = mysqli_connect($host, $user, $password, $database);
 
